@@ -1,5 +1,7 @@
 # Blast-Breaker
 
+PLEASE DOWNLOAD BOTH FILES
+
 A breaker game that I created.
 
 There 5 levels in total. Can you reach the final level and beat it?
